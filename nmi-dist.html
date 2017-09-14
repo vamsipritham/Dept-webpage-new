@@ -1,0 +1,33 @@
+---
+title: NMI Distinguished Associates
+---
+<div class="col-md-12">
+<h2>NMI Distinguished Associates</h2>
+
+<table class="table table-striped">
+  {% for stu in site.data.nmiDist %}
+  <tr>
+    <td class="col-md-7">
+      <div><h4>
+      {% if stu.webpage %}
+      <a href="{{ stu.webpage}}">{{ stu.name }}</a>
+      {% else %}
+      {{ stu.name }}
+      {% endif %}</h4></div>
+      <div class="">
+        <strong>Research areas:</strong> {{ stu.research-areas}}
+      </div>
+      {% if stu.email %}
+        <div>
+          <strong>Email:</strong> {{stu.email}}</a>
+        </div>
+        {% endif %}
+        {% if stu.webpage %}
+      {% endif %}
+      </div>
+    </td>
+  </tr>
+  {%  endfor %}
+</table>
+
+</div>

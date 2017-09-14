@@ -1,0 +1,41 @@
+---
+title: Emeritus Scientists
+---
+<div class="col-md-12">
+<h2>Emeritus scientists</h2>
+
+<h4>Alphabetically by last name</h4>
+
+
+<table class="table table-striped">
+  {% for stu in site.data.emiscient %}
+  <tr>
+    <td class="col-md-7">
+      <div><h4>
+      {% if stu.webpage %}
+      <a href="{{ stu.webpage}}">{{ stu.name }}</a>
+      {% else %}
+      {{ stu.name }}
+      {% endif %}</h4></div>
+      <div>
+        <strong>Postion:</strong> {{stu.position}}
+      </div>
+      <div class="">
+        <strong>Research areas:</strong> {{ stu.research-areas}}
+      </div>
+      {% if stu.email %}
+        <div>
+          <strong>Email:</strong>{{stu.email}}
+        </div>
+        {% endif %}
+        {% if stu.webpage %}
+      {% endif %}
+      </div>
+    </td>
+    <td>
+      <img class="col-md-3 pull-right img-responsive" src="{{site.baseurl}}/images/{{stu.photo}}"></td>
+  </tr>
+  {%  endfor %}
+</table>
+
+</div>

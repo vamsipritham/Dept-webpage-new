@@ -1,0 +1,31 @@
+{% include header.html %}
+
+<h3>{{ page.code }}:  {{ page.title }}</h3>
+<p>&nbsp;</p>
+
+{% if page.prereqs %}
+<h4> Pre-requisites : </h4>
+    <ol>
+    {% for pre in page.prereqs %}
+     <li> {{ pre }} </li>
+    {% endfor %}
+   </ol>
+{% endif %}
+
+<p>&nbsp;</p>
+    {{ content }}
+<p>&nbsp;</p>
+{% if page.books %}
+<h4> Suggested books : </h4>
+<ol>
+{% for book in page.books %}
+ <li>
+   {% if book.author %}{{ book.author}}, {% endif %} <em>{{ book.title }}</em>
+ {% if book.publ %},{{ book. publ }}{% endif %}.</li>
+ {% endfor %}
+ </ol>
+{% endif %}
+
+<br>
+<h4><a href="{{ site.baseurl}}/catalogue.html">All Courses</a></h4>
+{% include footer.html %}

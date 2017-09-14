@@ -1,0 +1,37 @@
+---
+title: Project Staff
+---
+<div class="col-md-12">
+<h2>Project Staff</h2>
+
+<h4>Alphabetically by last name</h4>
+  
+  <p><b>To send email: <font face="Courier New" size="3">UserID[at]iisc.ac.in</font></b></p>
+  
+
+<table class="table table-striped">
+  {% for stu in site.data.trainee %}
+  <tr>
+    <td class="col-md-7">
+      <div><h4>{{ stu.name }}</h4> </div>
+      {% if stu.user-id %}
+        <div>
+          <strong>UserID:</strong> {{stu.user-id}}
+        </div>
+        {% endif %}
+        {% if stu.webpage %}
+        <div>
+        <strong>Web page:</strong> <a href="{{ stu.webpage}}"> {{ stu.webpage }}</a>
+      </div>
+      {% endif %}
+      </div>
+    </td>
+    {% if stu.photo %}
+    <td>
+      <img class="col-md-3 pull-right img-responsive" src="{{site.baseurl}}/images/{{stu.photo}}"></td>
+    {% endif %}
+  </tr>
+  {%  endfor %}
+</table>
+
+</div>

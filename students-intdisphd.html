@@ -1,0 +1,37 @@
+---
+title: Interdisciplinary Ph.D. Students
+---
+<div class="col-md-12">
+<h2>Interdisciplinary Ph.D. students</h2>
+
+<h4>By year of joining</h4>
+  
+  <p><b>To send email: <font face="Courier New" size="3">UserID[at]iisc.ac.in</font></b></p>
+
+{% assign students = site.data.students | where: "programme", "Interdisiplinary PhD" %}
+{% assign years = students | group_by: "year-of-joining" %}
+
+{% for y in years %}
+
+<h3>Year of joining: {{y.name}}</h3>
+<table class="table table-striped">
+  {% for stu in y.items %}
+  <tr>
+    <td class="col-md-7"><div><a href="{{ stu.webpage}}"><h4>{{ stu.name }}</h4></a></div>
+      <div class="">
+        <strong>Program:</strong> {{ stu.programme}}
+      </div>
+        <div>
+          <strong>E-mail:</strong> {{stu.user-id}}
+        </div>
+      </div>
+    </td>
+    <td>
+      {% if stu.image %}
+      <img class="col-md-3 pull-right img-responsive" src="{{site.baseurl}}/images/stu-{{stu.user-id}}.jpg"></td>
+      {% endif %}
+  </tr>
+  {%  endfor %}
+</table>
+{% endfor %}
+</div>

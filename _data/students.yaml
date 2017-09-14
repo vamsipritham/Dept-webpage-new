@@ -1,0 +1,364 @@
+- name:	Sandeep K Mody
+  user-id:	sandeepmody
+  year-of-joining: 2009
+  programme: PhD
+  image: true
+
+
+
+- name	:	Jis Joseph
+  user-id	:	jisjoseph
+  year-of-joining: 2010
+  programme: PhD
+
+
+
+
+
+- name	:	S Aiyappan
+  user-id	:	aiyappans
+  year-of-joining: 2012
+  programme: PhD
+  image: true
+
+
+- name	:	Monojit Bhattachariya
+  user-id	:	monojitb
+  year-of-joining: 2012
+  programme: PhD
+  image: true
+
+
+
+
+- name	:	Somnath Hazra
+  user-id	:	somnathhazra
+  year-of-joining: 2012
+  programme: PhD
+
+- name	:	Gaddam Sharat
+  user-id	:	sharatgaddam
+  year-of-joining: 2012
+  programme: PhD
+
+
+
+- name	:	Rakesh Kumar
+  user-id	:	rakeshkumar
+  year-of-joining: 2013
+  programme: PhD
+  webpage	:	http://www.math.iisc.ac.in/~rakesh13/index.html
+
+
+
+- name	:	Pramath A.V
+  user-id	:	pramatha
+  year-of-joining: 2014
+  programme: PhD
+
+
+- name	:	Ritwik Pal
+  user-id	:	ritwikpal
+  year-of-joining: 2014
+  programme: PhD
+
+
+- name	:	Sanjay Kumar Jhawar
+  user-id	:	sanjayjhawar
+  year-of-joining: 2014
+  programme: PhD
+
+- name	:	Sourav Hait
+  user-id	:	souravhait
+  year-of-joining: 2014
+  programme: PhD
+
+
+- name	:	Lakshmi Priya M.E.
+  user-id	:	lakshmip
+  year-of-joining: 2015
+  programme: PhD
+
+- name	:	Paramita Pramanick
+  user-id	:	paramitap
+  year-of-joining: 2015
+  programme: PhD
+
+- name	:	Srimala Srikanth
+  user-id	:	srikanths
+  year-of-joining: 2015
+  programme: PhD
+
+
+- name	:	Londhe Mayuresh Mahadeo
+  user-id	:	mayureshl
+  year-of-joining: 2016
+  programme: PhD
+
+- name	:	K. Hariram
+  user-id	:	hariramk
+  year-of-joining: 2016
+  programme: PhD
+
+
+- name	:	G. V. K. Teja
+  user-id	:	tejag
+  year-of-joining: 2016
+  programme: PhD
+
+
+
+- name	:	Vikramjeet Singh Chandel
+  user-id	:	abelvikram
+  year-of-joining: 2009
+  programme: Integrated PhD
+  image: true
+
+
+
+- name	:	Md. Ramiz Reza
+  user-id	:	ramiz
+  year-of-joining: 2009
+  programme: Integrated PhD
+  image: true
+
+
+
+- name	:	Soumitra Ghara
+  user-id	:	gharas
+  year-of-joining: 2011
+  programme: Integrated PhD
+
+
+- name	:	Harshavardan R
+  user-id	:	harsha11
+  year-of-joining: 2011
+  programme: Integrated PhD
+
+
+- name	:	Samarpita Ray
+  user-id	:	samarpitaray
+  year-of-joining: 2011
+  programme: Integrated PhD
+  image: true
+
+
+- name	:	Amar Deep Sarkar
+  user-id	:	amarsarkar
+  year-of-joining: 2011
+  programme: Integrated PhD
+  image: true
+
+
+
+- name	:	Hassain M
+  user-id	:	hassainm
+  year-of-joining: 2012
+  programme: Integrated PhD
+  image: true
+
+
+- name	:	Anwoy Maitra
+  user-id	:	anwoymaitra
+  year-of-joining: 2012
+  programme: Integrated PhD
+
+
+- name	:	Samrat Sen
+  user-id	:	samratsen
+  year-of-joining: 2012
+  programme: Integrated PhD
+
+
+- name	:	Manish Kumar
+  user-id	:	manishkumar
+  year-of-joining: 2013
+  programme: Integrated PhD
+
+
+
+
+- name	:	Somnath Pradhan
+  user-id	:	somnathp
+  year-of-joining: 2013
+  programme: Integrated PhD
+
+
+- name	:	Subhajit Ghosh
+  user-id	:	gsubhajit
+  year-of-joining: 2013
+  programme: Integrated PhD
+
+
+- name	:	Anindya Biswas
+  user-id	:	anindyab
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Rahul Biswas
+  user-id	:	rahulbiswas
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Nimisha Pahuja
+  user-id	:	nimishap
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Nidhi Rathi
+  user-id	:	nidhirathi
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Ramesh Chandra Sau
+  user-id	:	rameshsau
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Sruthi Sekar
+  user-id	:	sruthisekar
+  year-of-joining: 2014
+  programme: Integrated PhD
+
+
+- name	:	Abu Sufian
+  user-id	:	abusufian
+  year-of-joining: 2015
+  programme: Integrated PhD
+
+
+- name	:	Himanshu Gupta
+  user-id	:	himanshug
+  year-of-joining: 2015
+  programme: Integrated PhD
+  image: true
+
+- name	:	Kriti Sehgal
+  user-id	:	kritisehgal
+  year-of-joining: 2015
+  programme: Integrated PhD
+
+- name	:	Prateek Kumar Vishwakarma
+  user-id	:	prateekv
+  year-of-joining: 2015
+  programme: Integrated PhD
+
+
+- name	:	Sahil Gehlawat
+  user-id	:	sahilg
+  year-of-joining: 2015
+  programme: Integrated PhD
+
+
+- name	:	Surjadipta De Sarkar
+  user-id	:	surjadiptade
+  year-of-joining: 2015
+  programme: Integrated PhD
+
+
+- name	:	Kartick Ghosh
+  user-id	:	kartickghosh
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+
+- name	:	Pabitra Barman
+  user-id	:	pabitrab
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+
+- name	:	Pranab Sarkar
+  user-id	:	pranabsarkar
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+
+- name	:	Pritam Ganguly
+  user-id	:	pritamg
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+- name	:	Poornendu Kumar
+  user-id	:	poornenduk
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+- name	:	Ragavendra Tripathi
+  user-id	:	ragavendrat
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+- name	:	Shubham Rastogi
+  user-id	:	shubhamr
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+
+- name	:	Swarnalipa Datta
+  user-id	:	swarnalipad
+  year-of-joining: 2016
+  programme: Integrated PhD
+
+- name: Ramesh Mete
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id: rameshmete
+
+- name: Purba Banerjee
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id: purbab
+
+- name: Abhay Jindal
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id:
+  email: abhayjindal.999@gmail.com
+
+- name: Babhrubahan Bose
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id: babhrubahanb
+
+- name : Aakanksha Jain
+  user-id: aakankshaj
+  year-of-joining: 2017
+  programme: Integrated PhD
+
+- name: Arindam Mandal
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id: arindamm
+
+- name: Neeladri Maitra
+  user-id: neeladrim
+  year-of-joining: 2017
+  programme: Integrated PhD
+
+- name: Aparajita Karmakar
+  user-id: aparajitak
+  year-of-joining: 2017
+  programme: PhD
+
+- name: Lakshmi Kanta Mahata
+  user-id: lakshmim
+  year-of-joining: 2017
+  programme: PhD
+
+
+- name: Gobinda Sau
+  user-id: gobindasau
+  year-of-joining: 2017
+  programme: PhD
+
+
+- name: Kesav S. Krishnan
+  user-id: kesavk
+  year-of-joining: 2017
+  programme: PhD
